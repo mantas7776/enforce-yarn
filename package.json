@@ -1,0 +1,11 @@
+{
+  "name": "enfore-yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enforce-yarn.js",
+  "scripts": {
+    "preinstall": "node enforce-yarn.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
